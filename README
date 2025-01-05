@@ -1,0 +1,20 @@
+Summary of the Findings:
+
+in Total: 5474 accepted the coupons and 7210 not accepted the coupons and that means 43.16 percent accepted the coupob whereas 56.84 did not accept it
+
+per Coupon-Group the acceptance was:
+Bar-Coupons: 41% were accepted and 59% were not accepted
+Carry out & Take away-Coupons: 74% were accepted and 26% were not accepted
+Coffee House-Coupons: 50% were accepted and 50% were not accepted
+Restaurant(<20)-Coupons: 71% were accepted and 29% were not accepted
+Restaurant(20-50)-Coupons: 44% were accepted and 56% were not accepted
+
+the acceptance-rate (Bar-Coupons) for those who went less than 3 times (Went_Less_3_Times - column = 1) is 37%
+whereas  the acceptance-rate (Bar-Coupons) for those who went more  3 times (Went_Less_3_Times - column = 0) is 76%
+
+
+the acceptance-rate for those who went to the bar  more than once a month and are over the age of 25 is 41%
+
+the acceptance for for those who went to the bar  more than once a month  and_no Kid_not_Farming_Fishing _Forestry acceptance = 41%
+
+Link to the Jupiter-Notebook is: 
